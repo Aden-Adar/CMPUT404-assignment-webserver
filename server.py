@@ -1,7 +1,7 @@
 #  coding: utf-8
 import socketserver
 import os
-# Copyright 2022 Aden Adar
+# Copyright 2023 Aden Adar
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
